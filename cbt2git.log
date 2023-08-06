@@ -1,0 +1,14 @@
+2023-08-06 03:39:36.563870 - Initialized conversion of CBT363
+2023-08-06 03:39:36.637647 - Received CBT.V505.FILE363.PDS from FILE363.XMI 
+2023-08-06 03:39:36.640089 - Found $$$$DOC.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/$$$$DOC
+2023-08-06 03:39:36.641104 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:39:36.642197 - Found @FILE363.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/@FILE363
+2023-08-06 03:39:36.643199 - Found MSG001.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG001
+2023-08-06 03:39:36.644155 - Found MSG002.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG002
+2023-08-06 03:39:36.645000 - Found MSG003.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG003
+2023-08-06 03:39:36.645886 - Found MSG004.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG004
+2023-08-06 03:39:36.646770 - Found MSG005.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG005
+2023-08-06 03:39:36.647628 - Found MSG006.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG006
+2023-08-06 03:39:36.648450 - Found MSG007.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG007
+2023-08-06 03:39:36.649314 - Found MSG008.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/MSG008
+2023-08-06 03:39:36.650199 - Found XSRNMCHG.txt (text/plain) in CBT.V505.FILE363.PDS, moved to PDS/XSRNMCHG
